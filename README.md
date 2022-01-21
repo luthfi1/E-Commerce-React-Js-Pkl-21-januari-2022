@@ -3,8 +3,6 @@
 <img width="1401" alt="Screen Shot 2022-01-21 at 10 39 27" src="https://user-images.githubusercontent.com/68719137/150461559-fb68924b-e22d-4ca1-a546-2148e9e9f81d.png">
 
 
-## Stay up to date with new projects
-New major projects coming soon, subscribe to the mailing list to stay up to date https://javascriptmastery.eo.page/mailing-list.
 
 ## Introduction
 This is a code repository for the corresponding video tutorial. 
